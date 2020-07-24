@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     TextView text;
 
-    String key = "key값";
+    String key = "7a695148436a656538334876617864";
     String data;
     XmlPullParser xpp;
 
